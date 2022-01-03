@@ -1,6 +1,6 @@
 # About ME
 
-### Hi there 👋
+### Hi there ...👋
 
 - 🔭 I’m currently working on `Machine Learning` `N L P` `Data Science` `Cyber Security` 
 - 🌱 I also work on `Front End`
