@@ -1,16 +1,20 @@
+# About ME
+
 ### Hi there 👋
 
-<!--
-**umarcbs/umarcbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on `Machine Learning` `N L P` `Data Science` `Cyber Security` 
+- 🌱 I also work on `Front End`
+- 📫 How to reach me: @umarcbs
 
-Here are some ideas to get you started:
+<a href="https://github.com/umarcbs/ReadME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umarcbs&show_icons=true&theme=radical&include_all_commits=true)" alt="Umar's github stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=umarcbs&theme=dark)
+
+
+<a href="https://github.com/umarcbs/ReadME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarcbs&show_icons=false&theme=dark&"](https://github.com/umarcbs/github-readme-stats" />
+</a>
